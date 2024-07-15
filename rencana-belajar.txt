@@ -1,0 +1,4 @@
+Rencana belajar
+- belajar collection laravel 
+- belajar PHP dasar
+- belajar tailwindCSS
